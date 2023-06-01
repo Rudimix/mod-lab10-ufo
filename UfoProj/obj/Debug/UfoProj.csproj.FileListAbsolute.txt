@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\bin\Debug\UfoProj.exe.config
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\bin\Debug\UfoProj.exe
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\bin\Debug\UfoProj.pdb
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\obj\Debug\UfoProj.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\obj\Debug\UfoProj.Form1.resources
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\obj\Debug\UfoProj.Properties.Resources.resources
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\obj\Debug\UfoProj.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\obj\Debug\UfoProj.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\obj\Debug\UfoProj.exe
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\obj\Debug\UfoProj.pdb
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\bin\Debug\OxyPlot.dll
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\bin\Debug\OxyPlot.Wpf.Shared.dll
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\bin\Debug\OxyPlot.xml
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\bin\Debug\OxyPlot.Wpf.Shared.xml
+C:\Users\PC\source\repos\Rudimix\mod-lab10-ufo\UfoProj\obj\Debug\UfoProj.csproj.CopyComplete
